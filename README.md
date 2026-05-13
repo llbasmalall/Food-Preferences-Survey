@@ -1,5 +1,4 @@
 # Food Preferences Survey
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/llbasmalall/Projects/tree/87e8d07d6351576adf4f2d2ea5bf0f9ba0f8c4ba/Survey%20Methodology)
 
 ## Overview
 
